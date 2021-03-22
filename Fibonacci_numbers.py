@@ -43,7 +43,7 @@ def fib_in_matrix(n: int) -> int:
 
 
 # f1 = 1 and f2 = 1
-n = 35
+n = 10
 # 1 1 2 3 5 8 13 21 34 55
 
 print('Method 1 -> got: {0} | expected: {1}'.format(fib_rec(n), 55))
